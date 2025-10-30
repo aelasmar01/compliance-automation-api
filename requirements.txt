@@ -7,3 +7,10 @@ python-dotenv
 passlib[bcrypt]
 # For Postgres later (ok to install now):
 psycopg2-binary
+pydantic-settings 
+passlib[bcrypt] 
+python-jose[cryptography] 
+python-multipart 
+email-validator
+pydantic-settings>=2.2.1
+pydantic>=2.7
