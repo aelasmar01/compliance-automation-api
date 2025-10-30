@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+python-dotenv
+passlib[bcrypt]
+# For Postgres later (ok to install now):
+psycopg2-binary
